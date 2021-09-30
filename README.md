@@ -11,7 +11,6 @@
 </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanvcb&show_icons=true&theme=dark&layout=compact)](https://github.com/Ruanvcb/github-readme-stats)
-
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,8 +18,6 @@
     <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ruan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  
-  ##
   
   ##
   
