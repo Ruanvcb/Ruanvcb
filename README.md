@@ -5,9 +5,9 @@
 - 📫 Pode me contactar pelo email: ruanbarbosavc@gmail.com
 - 📫 Um leitor voraz
 
-<div>
+<div align=left>
   <a href="https://github.com/Ruanvcb">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Ruanvcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ruanvcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanvcb&layout=compact)](https://github.com/Ruanvcb/github-readme-stats)
