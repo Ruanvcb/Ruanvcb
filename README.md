@@ -1,6 +1,6 @@
 ### Olá você, eu sou o Ruan 👋
 
-- 🔭 Atualmente sou Jovem Aprendiz do Senai, na caminha para ser um Dev
+- 🔭 Atualmente sou Jovem Aprendiz do Senai, na caminhada para ser um Dev
 - 🌱 HTML, CSS e JAVA
 - 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
 - 📚 Um leitor voraz
