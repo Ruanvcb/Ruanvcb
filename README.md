@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente sou Jovem Aprendiz do Senai, na caminha para ser um Dev
 - 🌱 HTML, CSS e JAVA
-- 📫 Pode me contactar pelo email: ruanbarbosavc@gmail.com
-- 📫 Um leitor voraz
+- 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
+- 📚 Um leitor voraz
 
 <div align=left>
   <a href="https://github.com/Ruanvcb">
