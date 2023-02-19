@@ -1,7 +1,7 @@
 ### Olá pessoas, eu sou o Ruan 👋
 
-- 👔 Atualmente sou Jovem Aprendiz do Senai, na caminhada para ser um Dev
-- 🌱 HTML, CSS e JAVA
+- 👔 Atualmente sou estagiário de TI na prefeitura de Caxias do Sul, na caminhada para ser um Dev
+- 🌱 HTML, CSS, JAVA e Python
 - 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
 - 📚 Um leitor voraz 🪄🧝
 - 🎵 But it's fine I'll be fine
