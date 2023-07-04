@@ -1,6 +1,6 @@
 ### Olá pessoas, eu sou o Ruan 👋
 
-- 👔 Atualmente sou estagiário de TI na prefeitura de Caxias do Sul, na caminhada para ser um Dev
+- 👔 Estagiário Front-End Fercien
 - 🌱 HTML, CSS, JAVA e Python
 - 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
 - 📚 Um leitor voraz 🪄🧝
