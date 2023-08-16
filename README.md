@@ -1,9 +1,9 @@
 ### Olá pessoas, eu sou o Ruan 👋
 
 - 👔 Estagiário Front-End Fercien
-- 🌱 HTML, CSS, JAVA e Python
+- 🌱 JavaScrip, HTML5, CSS3 e C# 
 - 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
-- 📚 Um leitor voraz 🪄🧝
+- 📚 Um leitor voraz
 - 🎵 But it's fine I'll be fine
 
 <div align=left>
