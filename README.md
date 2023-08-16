@@ -18,8 +18,6 @@
     <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ruan-Python" height="30" width="40" src="![image](https://github.com/Ruanvcb/Ruanvcb/assets/91634067/23eacaf9-22fa-4312-b3a4-6191286b89e9)
-">
   </div>
   
   ##
