@@ -1,10 +1,8 @@
 ### Olá pessoas, eu sou o Ruan 👋
 
-- 👔 Estagiário Front-End Fercien
-- 🌱 JavaScrip, HTML5, CSS3 e C# 
+- 👔 Dev Júnior
+- 🌱 C#, .NET Framework 4.8, JavaScript, HTML5, CSS3
 - 📧 Pode me contactar pelo email: ruanbarbosavc@gmail.com
-- 📚 Um leitor voraz
-- 🎵 But it's fine I'll be fine
 
 <div align=left>
   <a href="https://github.com/Ruanvcb">
